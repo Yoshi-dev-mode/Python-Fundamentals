@@ -8,12 +8,3 @@ print(f"Hello {name} ")
 
 
 
-
-
-
-
-
-
-x= "data1"
-y = x = z = "data2"
-print(x)
