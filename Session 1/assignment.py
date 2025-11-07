@@ -27,4 +27,21 @@ Python Output Practice:
 
 Welcome, [name]! Your favorite color is [color], and you live in [city].
 
+
+"""
+
+"""
+4. Write a program that prints the text below:
+
+OUTPUT:
+
+-----------------------------
+|   USER PROFILE SUMMARY    |
+-----------------------------
+Name:          John Parker
+Nickname:      JP
+Favorite Color: Blue
+Hobby:         Drawing
+Motto:         "Create every day."
+-----------------------------
 """
