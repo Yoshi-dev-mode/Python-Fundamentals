@@ -4,3 +4,31 @@ This project contains examples, exercises, and notes to help beginners understan
 
 ## 📘 About the Project
 This project teaches you the basics of Python step by step.
+
+## 🧩 Session 1
+
+| File | Description |
+|------|--------------|
+| `1-print().py` | Introduction to the `print()` function |
+| `2-variables.py` | Declaring and using variables |
+| `3-input-and-formatting.py` | Taking user input and formatting strings |
+| `4-data_types.py` | Understanding different Python data types |
+| `assignment.py` | Session 1 activity or practice assignment |
+
+---
+
+## 🧠 Session 2
+
+| File | Description |
+|------|--------------|
+| `5-comments.py` | Single-line and multi-line comments |
+| `6-string_methods.py` | Common string methods and operations |
+| `7-arithmetic_operators.py` | Performing mathematical operations |
+| `8-shorthand_arithmetic_operator.py` | Using shorthand assignment operators |
+| `9-comparison-operators.py` | Comparing values in Python |
+| `10-if-elif-else.py` | Conditional statements |
+| `11-nested-conditional-statement.py` | Using nested if-else statements |
+| `12-ternary-operators.py` | One-line conditional expressions |
+| `13-match-case.py` | The new `match-case` structure in Python 3.10+ |
+
+---
