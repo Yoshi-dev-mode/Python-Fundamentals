@@ -1,4 +1,4 @@
-#🐍 Python Fundamentals
+# 🐍 Python Fundamentals
 Welcome to the Python Fundamentals repository!
 This project contains examples, exercises, and notes to help beginners understand the core concepts of the Python programming language.
 
