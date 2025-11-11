@@ -47,13 +47,14 @@ num_2 = 4
 result = num_1 // num_2
 print(result)
 
-# 7. Modulus operator
+# 7. Modulus operator - This is useful when it comes to even or odd
 num_1 = 9
 num_2 = 2
 result = num_1 % num_2
 print(result)
 
 """
+
 
 
 
