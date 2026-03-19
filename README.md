@@ -44,6 +44,5 @@ Each session introduces a new concept — from basic syntax to conditional state
 | `14-lists.py`        | Creating, accessing, and manipulating lists                             |
 | `15-dictionaries.py` | Working with key-value pairs using dictionaries                         |
 | `16-function.py`     | Defining and calling functions, parameters, and return values           |
-| `assignment.py`      | Session 3 activity or practice assignment                               |
 
 ---
