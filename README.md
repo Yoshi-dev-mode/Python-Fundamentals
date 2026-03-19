@@ -38,6 +38,8 @@ Each session introduces a new concept — from basic syntax to conditional state
 
 ---
 
+## 🚀 Session 3
+
 | File                 | Description                                                             |
 | -------------------- | ----------------------------------------------------------------------- |
 | `13-match-case.py`   | Using `match-case` for pattern matching (alternative to if-else chains) |
