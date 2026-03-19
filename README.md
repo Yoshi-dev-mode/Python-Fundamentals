@@ -35,6 +35,15 @@ Each session introduces a new concept — from basic syntax to conditional state
 | `10-if-elif-else.py` | Conditional statements |
 | `11-nested-conditional-statement.py` | Using nested if-else statements |
 | `12-ternary-operators.py` | One-line conditional expressions |
-| `13-match-case.py` | The new `match-case` structure in Python 3.10+ |
+
+---
+
+| File                 | Description                                                             |
+| -------------------- | ----------------------------------------------------------------------- |
+| `13-match-case.py`   | Using `match-case` for pattern matching (alternative to if-else chains) |
+| `14-lists.py`        | Creating, accessing, and manipulating lists                             |
+| `15-dictionaries.py` | Working with key-value pairs using dictionaries                         |
+| `16-function.py`     | Defining and calling functions, parameters, and return values           |
+| `assignment.py`      | Session 3 activity or practice assignment                               |
 
 ---
