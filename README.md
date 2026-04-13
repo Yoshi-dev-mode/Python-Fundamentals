@@ -48,3 +48,13 @@ Each session introduces a new concept — from basic syntax to conditional state
 | `16-function.py`     | Defining and calling functions, parameters, and return values           |
 
 ---
+
+## 🔁 Session 4
+
+| File | Description |
+|------|--------------|
+| `17-modular-programming.py` | Understanding how to divide programs into smaller, reusable parts using functions and modules for better organization and readability |
+| `18-while-loop.py` | Learning how to use `while` loops for condition-based repetition and handling user-driven programs safely |
+| `19-for-loop.py` | Exploring `for` loops for fixed repetitions, working with sequences, and building patterns using iteration |
+
+---
